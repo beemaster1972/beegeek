@@ -1,35 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T10:47:24.003Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XqUq9wl3wVxJYtAJxLTs" version="21.6.8" type="device">
+<mxfile host="app.diagrams.net" modified="2023-08-22T05:13:30.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.765 Yowser/2.5 Safari/537.36" etag="9JtgKO3tsH7HVXY18BbP" version="21.6.8" type="device">
   <diagram name="Страница — 1" id="xb4MeZ7aHhNsiBfXy3GK">
-    <mxGraphModel dx="919" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tt6epU-yzHPA9doVk0K4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tt6epU-yzHPA9doVk0K4-1" target="tt6epU-yzHPA9doVk0K4-2">
+        <mxCell id="tt6epU-yzHPA9doVk0K4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tt6epU-yzHPA9doVk0K4-1" target="tt6epU-yzHPA9doVk0K4-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="tt6epU-yzHPA9doVk0K4-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="357" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tt6epU-yzHPA9doVk0K4-2" target="tt6epU-yzHPA9doVk0K4-4">
+        <mxCell id="tt6epU-yzHPA9doVk0K4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tt6epU-yzHPA9doVk0K4-2" target="tt6epU-yzHPA9doVk0K4-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-2" value="a,b,c,d" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="tt6epU-yzHPA9doVk0K4-2" value="a,b,c,d" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="357" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tt6epU-yzHPA9doVk0K4-4" target="tt6epU-yzHPA9doVk0K4-6">
+        <mxCell id="tt6epU-yzHPA9doVk0K4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tt6epU-yzHPA9doVk0K4-4" target="tt6epU-yzHPA9doVk0K4-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-4" value="sum = a+b+c+d&lt;br&gt;average = sum/4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="tt6epU-yzHPA9doVk0K4-4" value="sum = a+b+c+d&lt;br&gt;average = sum/4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="351" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tt6epU-yzHPA9doVk0K4-6" target="tt6epU-yzHPA9doVk0K4-8">
+        <mxCell id="tt6epU-yzHPA9doVk0K4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tt6epU-yzHPA9doVk0K4-6" target="tt6epU-yzHPA9doVk0K4-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-6" value="average" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="120" height="80" as="geometry" />
+        <mxCell id="tt6epU-yzHPA9doVk0K4-6" value="average" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="357" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tt6epU-yzHPA9doVk0K4-8" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="tt6epU-yzHPA9doVk0K4-8" value="end" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="357" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d2dVsyZyytc-ADtDijUE-1" value="Задача 3. Составить блок-схему нахождения среднего арифметического из 4-х чисел." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="167" width="500" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

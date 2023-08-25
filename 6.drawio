@@ -1,65 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T11:01:19.088Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6CW1xtfXZt8cneElTf_c" version="21.6.8" type="device">
+<mxfile host="app.diagrams.net" modified="2023-08-22T05:15:34.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.765 Yowser/2.5 Safari/537.36" etag="GGbtUyqJk5YcMoMCCFyo" version="21.6.8" type="device">
   <diagram name="Страница — 1" id="TDIU5wBVysJiLEaUUN11">
-    <mxGraphModel dx="919" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yNHblZK7EL_facUkr_SX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNHblZK7EL_facUkr_SX-1" target="yNHblZK7EL_facUkr_SX-2">
+        <mxCell id="yNHblZK7EL_facUkr_SX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNHblZK7EL_facUkr_SX-1" target="yNHblZK7EL_facUkr_SX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="yNHblZK7EL_facUkr_SX-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="58" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNHblZK7EL_facUkr_SX-2" target="yNHblZK7EL_facUkr_SX-4">
+        <mxCell id="yNHblZK7EL_facUkr_SX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNHblZK7EL_facUkr_SX-2" target="yNHblZK7EL_facUkr_SX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-2" value="N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="yNHblZK7EL_facUkr_SX-2" value="N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="158" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNHblZK7EL_facUkr_SX-4" target="yNHblZK7EL_facUkr_SX-6">
+        <mxCell id="yNHblZK7EL_facUkr_SX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNHblZK7EL_facUkr_SX-4" target="yNHblZK7EL_facUkr_SX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-4" value="fact = 1&lt;br&gt;i = 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="yNHblZK7EL_facUkr_SX-4" value="fact = 1&lt;br&gt;i = 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="248" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNHblZK7EL_facUkr_SX-6" target="yNHblZK7EL_facUkr_SX-7">
+        <mxCell id="yNHblZK7EL_facUkr_SX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNHblZK7EL_facUkr_SX-6" target="yNHblZK7EL_facUkr_SX-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-15" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yNHblZK7EL_facUkr_SX-8">
+        <mxCell id="yNHblZK7EL_facUkr_SX-15" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yNHblZK7EL_facUkr_SX-8" vertex="1" connectable="0">
           <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNHblZK7EL_facUkr_SX-6" target="yNHblZK7EL_facUkr_SX-10">
+        <mxCell id="yNHblZK7EL_facUkr_SX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNHblZK7EL_facUkr_SX-6" target="yNHblZK7EL_facUkr_SX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yNHblZK7EL_facUkr_SX-13">
+        <mxCell id="yNHblZK7EL_facUkr_SX-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yNHblZK7EL_facUkr_SX-13" vertex="1" connectable="0">
           <mxGeometry x="-0.2857" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-6" value="i &amp;lt;= N" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="yNHblZK7EL_facUkr_SX-6" value="i &amp;lt;= N" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="338" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNHblZK7EL_facUkr_SX-7" target="yNHblZK7EL_facUkr_SX-6">
+        <mxCell id="yNHblZK7EL_facUkr_SX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yNHblZK7EL_facUkr_SX-7" target="yNHblZK7EL_facUkr_SX-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="450" />
-              <mxPoint x="220" y="330" />
+              <mxPoint x="220" y="498" />
+              <mxPoint x="220" y="378" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-7" value="fact = fact * i&lt;br&gt;i += 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="yNHblZK7EL_facUkr_SX-7" value="fact = fact * i&lt;br&gt;i += 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="468" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNHblZK7EL_facUkr_SX-10" target="yNHblZK7EL_facUkr_SX-11">
+        <mxCell id="yNHblZK7EL_facUkr_SX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNHblZK7EL_facUkr_SX-10" target="yNHblZK7EL_facUkr_SX-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-10" value="fact" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="290" width="120" height="80" as="geometry" />
+        <mxCell id="yNHblZK7EL_facUkr_SX-10" value="fact" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="338" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yNHblZK7EL_facUkr_SX-11" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="yNHblZK7EL_facUkr_SX-11" value="end" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ9yg3CQcfj9TEh91a4Z-1" value="Задача 6. Составить блок-схему нахождения факториала N." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-2" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
