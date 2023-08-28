@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <mxfile host="app.diagrams.net" modified="2023-08-25T07:40:24.834Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l2PQMq48kz85OucnjLue" version="21.6.8" type="github">
+=======
+<mxfile host="app.diagrams.net" modified="2023-08-25T07:46:33.563Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AQOnTAe2rsqQwvO9mQ6b" version="21.6.8" type="github">
+>>>>>>> 8a29c030fc5ef1125086e6776bf01f66b2824e2f
   <diagram name="Страница — 1" id="-wGCh0dpiqMGPrMJZ61N">
     <mxGraphModel dx="919" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,8 +11,8 @@
         <mxCell id="yyV0W4Rz9nXvoJmRUtrk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyV0W4Rz9nXvoJmRUtrk-1" target="yyV0W4Rz9nXvoJmRUtrk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yyV0W4Rz9nXvoJmRUtrk-1" value="max_and_min_index" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="223" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="yyV0W4Rz9nXvoJmRUtrk-1" value="Найти сумму элементов массива, лежащих между максимальным и минимальным по значению элементами" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="118" y="20" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yyV0W4Rz9nXvoJmRUtrk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyV0W4Rz9nXvoJmRUtrk-2" target="yyV0W4Rz9nXvoJmRUtrk-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,7 +193,11 @@
         <mxCell id="hc658LScmtB8A8z1CPrU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hc658LScmtB8A8z1CPrU-20" target="hc658LScmtB8A8z1CPrU-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+<<<<<<< HEAD
         <mxCell id="hc658LScmtB8A8z1CPrU-20" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+=======
+        <mxCell id="hc658LScmtB8A8z1CPrU-20" value="min_index&lt;br&gt;max_index&lt;br&gt;sum" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+>>>>>>> 8a29c030fc5ef1125086e6776bf01f66b2824e2f
           <mxGeometry x="1040" y="306" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hc658LScmtB8A8z1CPrU-23" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

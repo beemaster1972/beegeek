@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2023-08-25T08:03:54.422Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bo3zETmKADyaI9rBhyhF" version="21.6.9" type="github">
+  <diagram name="Страница — 1" id="KXWHubgCmVswlv4wi9AM">
+    <mxGraphModel dx="919" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-1" target="PMSObuNhU9j1F0TxZ9Ph-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-1" value="Найти среднее арифметическое среди всех элементов массива.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-2" target="PMSObuNhU9j1F0TxZ9Ph-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-2" value="size&lt;br&gt;arr[size]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-4" target="PMSObuNhU9j1F0TxZ9Ph-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-4" value="index = 0&lt;br&gt;sum = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-5" target="PMSObuNhU9j1F0TxZ9Ph-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PMSObuNhU9j1F0TxZ9Ph-9">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-5" target="PMSObuNhU9j1F0TxZ9Ph-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PMSObuNhU9j1F0TxZ9Ph-13">
+          <mxGeometry x="-0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-5" value="index &amp;lt; size" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-8" target="PMSObuNhU9j1F0TxZ9Ph-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="565" />
+              <mxPoint x="160" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-8" value="sum += arr[index]&lt;br&gt;index += 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="515" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-12" target="PMSObuNhU9j1F0TxZ9Ph-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-12" value="mean = sum / size" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMSObuNhU9j1F0TxZ9Ph-15" target="PMSObuNhU9j1F0TxZ9Ph-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-15" value="mean" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="585" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMSObuNhU9j1F0TxZ9Ph-17" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
